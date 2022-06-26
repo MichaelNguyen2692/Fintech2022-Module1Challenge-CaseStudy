@@ -1,16 +1,17 @@
 # Fintech2022-Module1Challenge-CaseStudy
-# ROBINHOOD – DEMOCRATIZED ACCESS TO FINANCIAL LITERACY
+# **ROBINHOOD – Financial Literacy For All**
 
-## Overview and Origin
-Robinhood Markets, INC (Robinhood) was founded in 2013 by Vladimir Tenev and Baiju Bhatt at Menlo Park, California, U.S. 
+## **1. Overview and Origin**
+**Robinhood Markets, INC** (Robinhood) was founded in 2013 by Vladimir Tenev and Baiju Bhatt at Menlo Park, California, U.S. 
 
 While working for trading firms, both of the founders realised the financial institutions were paying *“fraction of a penny”* (Steib, 2021) for trading and transaction. This is the foundation where Robinhood was built from. The main mission of the company is to provide **“financial literacy for all"**. 
 
 Robinhood was funded by many categories of investors such as VCs, investment banks, financial institutions, etc. Crunchbase (2022) has estimated that, over 29 rounds of funding, $6.2B was raised. The company went public in 2021 under the ticker NASDAQ:HOOD. By 28th Jan 2021, post money valuation of the company was in range of $10B. 
 
+![Robinhood Markets, INC](https://www.foxbusiness.com/markets/doj-subpoenas-robinhood-others-in-gamestop-probe-report)
+
 ## Business Activities
 
-* What specific financial problem is the company or project trying to solve?
 There are few barries that retail investors need to get over in order to get into the financial markets. These could be either costly trading commission fees, large amount of capital required or low accessibility to trading platforms. Robinhood most significant focus are to offering zero-commission-fee and a minimal trading platform which micro investors can access, trade anywhere with any amount of capital they can (Robinhood, 2022). Moreover, Robinhood is broadening their product range into cryptocurrency, cashcard, and also providing financial education resources. By doing this, the company is” providing democratized finance access to all”.
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
 As previously mentioned, retail investors or micro investors are the customer segment which Robinhood targeted initially. They customers can be either beginners – millennials interested in trading – or high-frequency traders (Curry, 2022). However, it would be insufficient if retail brokerage marketing firms and electronic trading firms are not considered. While there is no adequate information to value the whole market size of Robinhood’s targeted customer segments, by 2022, the company is estimated to have a user base of 31 million (Pereira, 2022).
